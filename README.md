@@ -22,6 +22,7 @@
 
 <h3>Dataset</h3>
 <p>Mental health dataset, obtained from Kaggle, containing a variety of features mental health, workplace experiences, treatment-seeking behavior, and demographic information.</p>
+<a href="https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset">Link to Dataset</a>
 
 <h3>Key Findings</h3>
 <p>The participant pool was predominantly male.</p>
